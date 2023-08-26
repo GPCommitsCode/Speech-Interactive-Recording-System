@@ -1,0 +1,25 @@
+﻿Build started 11/14/2022 6:15:41 PM.
+     1>Project "D:\IIT G Sem 1 Subjects\Speech Processing\Group5_IVRS\Group5_IVRS\startprojivrs\startproj\startproj.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\startproj.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         startproj.vcxproj -> D:\IIT G Sem 1 Subjects\Speech Processing\Group5_IVRS\Group5_IVRS\startprojivrs\Debug\startproj.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\startproj.unsuccessfulbuild".
+         Touching "Debug\startproj.lastbuildstate".
+     1>Done Building Project "D:\IIT G Sem 1 Subjects\Speech Processing\Group5_IVRS\Group5_IVRS\startprojivrs\startproj\startproj.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
